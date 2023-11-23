@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/CarterOne-Regular.ttf",
+      "sha1": "088987baf523ac206b1d9b9e350bc72bf3949bd3"
+    },
+    {
+      "path": "app/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "bb895d19b8a1fbe1c57fc89cac5da82fdc8fdef4"
+    }
+  ]
+}
